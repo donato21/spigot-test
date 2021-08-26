@@ -1,0 +1,6 @@
+com\spigottut\spigottest\commands\CustomCommands.class
+com\spigottut\spigottest\items\CustomItems.class
+com\spigottut\spigottest\enchants\CustomEnchants.class
+com\spigottut\spigottest\enchants\EnchantWrapper.class
+com\spigottut\spigottest\events\CustomEvents.class
+com\spigottut\spigottest\SpigotTest.class

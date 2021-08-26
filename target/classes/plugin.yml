@@ -1,0 +1,10 @@
+name: SpigotTest
+version: '1.0-SNAPSHOT'
+main: com.spigottut.spigottest.SpigotTest
+api-version: 1.17
+authors: [ Donato ]
+description: First spigot plugin
+commands:
+  dumptruck:
+    description: Gives God Shear.
+    usage: /<command>
